@@ -1,0 +1,61 @@
+🌾 Crop Production Data Analysis
+
+📌 Project Overview
+This project focuses on analyzing crop production data using Python, Excel, SQL, Tableau, and Machine Learning.
+
+The project includes data cleaning, data preparation, SQL analysis, data visualization, and machine learning.
+
+🎯 Project Objectives
+- Clean and prepare the original crop production dataset.
+- Organize the cleaned data into separate datasets.
+- Analyze agricultural and climate-related data using SQL.
+- Create visualizations and dashboards using Tableau.
+- Apply Machine Learning to the project data.
+
+🛠️ Tools & Technologies
+- Python
+- Pandas
+- NumPy
+- Excel
+- SQL
+- Tableau
+- Machine Learning
+
+🔄 Project Workflow
+
+1. Python – Data Cleaning
+- Imported the original CSV dataset.
+- Cleaned and prepared the data.
+- Organized the processed data for further analysis.
+
+2. Excel – Dataset Preparation
+Created two datasets:
+- Climate Agriculture
+- Crop Production Agriculture
+
+3. SQL – Data Analysis
+- Analyzed the prepared datasets using SQL.
+- Used SQL queries to explore and analyze agricultural data.
+
+4. Tableau – Data Visualization
+- Created visualizations and a dashboard.
+- Presentation agricultural data in a visual format.
+5. Machine Learning
+- Applied Machine Learning techniques to the project.
+- Completed the machine learning part of the project.
+  
+📊 Key Findings
+The project focusees on undersanding agricultural data,
+crop predection patterten and realtionships within the prepared dataset.
+
+📁 Project Structure
+- Original CSV dataset
+- Python data cleaning files
+- Two cleaned excel datasets
+- Machine learning project files
+- README documentation 
+
+ 👩‍💻 Author
+Vrunda Parekh
+
+Data Science / Data Analytics Fresher
